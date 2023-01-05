@@ -72,15 +72,6 @@ public class Exercise_1 {
 //        System.out.println(result);
 //    }
 
-
-    // Function to calculate the Greatest Common Divisor (GCD) of 2 numbers
-
-//    public static void calGCD(int a, int b){
-//
-//
-//    }
-
-
 //
 //        public static void main(String[] args) {
 //            Scanner input=new Scanner(System.in);

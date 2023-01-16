@@ -1,5 +1,3 @@
-package com.harry.java;
-
 import java.util.*;
 
 public class Arrays {
@@ -72,4 +70,5 @@ public class Arrays {
         }else{
             System.out.println("The array is not sorted in ascending order ");
         }
-    }}
+    }
+}

@@ -1,6 +1,5 @@
-package com.harry.java;
-
 import java.util.*;
+
 public class Functions {
     // Function to check whether a number is prime or not.
 

@@ -1,5 +1,3 @@
-package com.harry.java;
-
 import java.util.*;
 
 public class Prime {

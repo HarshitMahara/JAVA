@@ -1,6 +1,5 @@
-package com.harry.java;
-
 import java.util.*;
+
 public class Exercise_1 {
 
     // Function to calculate the average of 3 numbers

@@ -35,6 +35,7 @@ public class Switch {
         }*/
 
         //PROGRAM TO PRINT MONTHS USING SWITCH
+        
         Scanner input=new Scanner(System.in);
         int n=input.nextInt();
         switch(n){

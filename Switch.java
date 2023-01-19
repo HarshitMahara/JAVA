@@ -2,7 +2,9 @@ import java.util.*;
 
 public class Switch {
     public static void main(String[] args) {
+        
        /* CALCULATOR PROGRAM USING SWITCH
+       
        Scanner input=new Scanner(System.in);
         int a=input.nextInt();
         int b=input.nextInt();

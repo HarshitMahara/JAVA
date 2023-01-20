@@ -3,7 +3,9 @@ import java.util.*;
 public class Switch {
     public static void main(String[] args) {
         
-       /* CALCULATOR PROGRAM USING SWITCH
+       /*
+       
+       CALCULATOR PROGRAM USING SWITCH
        
        Scanner input=new Scanner(System.in);
         int a=input.nextInt();
@@ -32,7 +34,9 @@ public class Switch {
                 break;
             default:
                 System.out.println("Enter a valid input");
-        }*/
+        }
+        
+        */
 
         //PROGRAM TO PRINT MONTHS USING SWITCH
         

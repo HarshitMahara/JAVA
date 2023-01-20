@@ -2,7 +2,9 @@ import java.util.*;
 
 public class Loops {
     public static void main(String[] args) {
+        
 //          PROGRAM TO PRINT FIRST N EVEN NUMBERS
+        
 //        Scanner input=new Scanner(System.in);
 //        int n= input.nextInt();
 //        for(int i=0;i<=n;i++){
@@ -14,6 +16,7 @@ public class Loops {
 
 
         // PROGRAM TO ENTER AND CHECK THE MARKS OF THE STUDENT
+        
         Scanner input = new Scanner(System.in);
         int n;
         do{
